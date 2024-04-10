@@ -1,0 +1,9 @@
+USER ID,GRADE,USERNAME,EMAIL,CONTACT,GENDER,AGE,ADDRESS,STATE,CITY,POSTCODE,ROLE,PASSWORD
+1,,Thomas,thomas@gmail.com,9876543210,Male,56,3024 Boone Crockett Lane,London,London,W1D 4FA,Coach,123456
+2,,James,james@gmail.com,9876543210,Male,56,12 High Street,Manchester,Manchester,M1 1AA,Coach,123456
+3,,Robert,robert@gmail.com,9876543210,Male,67,45 Park Avenue,Birmingham,Birmingham,B1 1AA,Coach,123456
+4,,Robin,robin@gmail.com,9876878980,Male,78,78 Queen's Road,Glasgow,Glasgow,G1 1AA,Coach,123456
+5,,Jones,jones@gmail.com,1234567890,Male,89,23 King's Street,Belfast,Belfast,BT1 1AA,Coach,123456
+6,Grade Level 2,shivali,shivali@gmail.com,7418514852,Female,11,rvr,refeer,ferfger,123456,Learner,123456
+7,Grade Level 2,mandy,mandy@gmail,com,7418529635,Female,5,ege,rgerg,erger,343434,Learner,123456
+8,Grade Level 4,john,john@gmail.com,7841585147,Male,6,grge,rgreger,freg,343433,Learner,123456

@@ -1,0 +1,9 @@
+Booking ID,User ID,Lesson ID,Coach ID,Date,Day,Slot,Grade,Status,Price
+1,8,6,4,06-03-2024,Wednesday,6pm-7pm,Grade Level 3,Attended,$789.99
+2,8,8,3,08-03-2024,Friday,5pm-6pm,Grade Level 3,Attended,$789.99
+3,8,20,4,15-03-2024,Friday,3pm-4pm,Grade Level 4,Attended,$789.99
+4,8,44,1,30-03-2024,Saturday,3pm-4pm,Grade Level 5,Changed,$789.99
+5,8,44,1,30-03-2024,Saturday,3pm-4pm,Grade Level 5,Cancelled,$789.99
+6,6,15,1,13-03-2024,Wednesday,3pm-4pm,Grade Level 1,Cancelled,$789.99
+7,6,43,2,30-03-2024,Saturday,3pm-4pm,Grade Level 2,Attended,$789.99
+8,1,1,1,04-03-2024,Monday,4pm-5pm,Grade Level 1,Booked,$789.99
